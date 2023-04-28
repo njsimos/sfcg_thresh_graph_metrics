@@ -10,5 +10,5 @@ Simos NJ, Dimitriadis SI, Kavroulakis E, Manikis GC, Bertsias G, Simos P, Maris 
 Quantitative Identification of Functional Connectivity Disturbances in Neuropsychiatric Lupus Based on Resting-State fMRI: A Robust Machine Learning Approach. 
 Brain Sciences. 2020; 10(11):777. https://doi.org/10.3390/brainsci10110777
 
-To run analysis load data in appropriate form and run the main controller code in: pcc_surFilt_AAL.m
+To run the analysis, load data in the appropriate form and run the main controller code in: pcc_surFilt_AAL.m
 
